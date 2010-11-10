@@ -1,0 +1,11 @@
+Get Android:
+
+http://developer.android.com/sdk/index.html
+
+Once it's downlaoded, unzip it.
+
+Run:
+
+    tools/android update sdk
+
+From the command line. It's going to take a long time. Crack a soda.
